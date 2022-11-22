@@ -3,4 +3,4 @@
 适用于Python的轻量级操作系统——PyOS\
 请用Python 3自带的终端运行\
 新一代PyOS（终于有了图形界面）\
-**:exclamation:运行前请确认电脑已安装Pygame库**
+**:exclamation:I'm still thinking should I use Pygame or PyQT to make this project...**
